@@ -3,6 +3,8 @@ Jither.PBKDF2
 
 Flexible PBKDF2 implementation for the .NET Framework.
 
+Currently targetting .NET Framework 4.5.1.
+
 The PBKDF2 implementation included with .NET 2.0 and newer - `Rfc2898DeriveBytes` - is hardcoded to use HMAC-SHA1 as the underlying pseudo random function (PRF).
 
 Jither.PBKDF2 consists of:
